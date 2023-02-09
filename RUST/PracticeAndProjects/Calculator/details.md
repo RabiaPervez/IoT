@@ -1,1 +1,1 @@
-**** The calculator takes input from user by asking two numbers. The loop continues to ask again and again in case of wrong input. The code then asks for operator input and validates the input operator is right or not, then takes the appropriate action.
+#### The calculator takes input from user by asking two numbers. The loop continues to ask again and again in case of wrong input. The code then asks for operator input and validates the input operator is right or not, then takes the appropriate action.
